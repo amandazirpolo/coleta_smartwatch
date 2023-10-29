@@ -16,7 +16,7 @@ Usaremos os sensores já nativos do relógio. Preferencialmente, os sensores de 
 <h3>Pesquisas favorecidas pelo aplicativo:</h3>
 <ul>
   <li>Apoio ao diagnóstico de demência e outras psicopatologias utilizando Smartwatches, orientado pela Profa. Dra. Taiane Coelho Ramos. </li>
-  <li>CSI, orientado pela Profa. Dra. Débora Christina Muchaluat Saade.</li>
+  <li>Pesquisa em análise de sinais CSI em redes Wi-Fi para monitoramento remoto de pacientes, orientado pela Profa. Dra. Débora Christina Muchaluat Saade.</li>
 </ul>
 
 <!-- Contatos -->
